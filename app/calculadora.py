@@ -124,3 +124,4 @@ boton_18.grid(row=5, column=0, ipadx=8, ipady=10)
 
 ventana.mainloop()
 
+# gracias por usar mi calculadora :)
