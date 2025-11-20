@@ -125,3 +125,5 @@ boton_18.grid(row=5, column=0, ipadx=8, ipady=10)
 ventana.mainloop()
 
 # gracias por usar mi calculadora :)
+# hice asi los botones para que se pueda leer mi codigo con mayor facilidad
+# proximamente los encapsulare en un ciclo for pra que sea mas compato mi codigo 
