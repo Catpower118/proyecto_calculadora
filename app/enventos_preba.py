@@ -8,3 +8,5 @@ def teclado(evento):
 ventana.bind("<KeyPress>", teclado)
 
 ventana.mainloop()
+
+# esto es una prueba de eventos en tkinter no influye en la calculadora
